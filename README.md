@@ -20,8 +20,8 @@ If you find this project useful, please cite:
 ```
 
 ## Requirements
+Code is tested with Python==3.6, PyTorch==1.7.0, CUDA==11.0 on Ubuntu-20.04 with NVIDIA GeForce RTX 3090. 
 
-Please use Python 3.6.
 ```bash
 pip install -r requirements.txt
 ```
